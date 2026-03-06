@@ -63,10 +63,10 @@ inventario-ti
 
 ## Instalación
 Clonar el repositorio:
-git clone https://github.com/ashleyschiaffino/dashboard_inventario_ti.git
+git clone https://github.com/ashleyschiaffino/inventario_ti.git
 
 Entrar al proyecto:
-cd dashboard_inventario_ti
+cd inventario_ti
 
 Instalar dependencias:
 npm install
